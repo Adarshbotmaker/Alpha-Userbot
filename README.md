@@ -45,7 +45,7 @@
 
 OᖴᖴIᑕIᗩᒪ GᖇOᑌᑭS 
 
-[SᑌᑭᑭOᖇT](https://t.me/Alpha_userbot_support)
+[SᑌᑭᑭOᖇT](https://t.me/Alpha_bot_support)
 
 
 [ᑌᑭᗪᗩTES](https://t.me/Alpha_bot_updates)
