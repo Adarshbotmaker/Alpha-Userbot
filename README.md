@@ -1,10 +1,15 @@
 
-# Alpha x
-тнιѕ ιѕ α υѕєявσт мα∂є ƒσя тєℓєgяαм. ι мα∂є тнιѕ υѕєявσт ωιтн нєℓρ σƒ αℓℓ σтнєя υѕєявσтѕ αναιℓαвℓє ιη тєℓєgяαм.ąƖƖ ƈrɛɖıɬʂ ɠơɛʂ ɬơ ıɬʂ rɛʂ℘ɛƈɬı۷ɛ ơῳŋɛrʂ...
+# Alpha X
+
+
 мα∂ɛ вʏ - [Adarsh](https://t.me/adarshop_xd) 
 
 
 # TᕼE OᗯᑎEᖇ ᗯOᑌᒪᗪ ᑎOT ᗷE ᖇESᑭOᑎSIᗷᒪE ᖴOᖇ ᗩᑎY KIᑎᗪ Oᖴ ᗷᗩN ᗪᑌE TO ᗷOT..YOᑌ ᑕᗩᑎ OᑎᒪY  GET ᗷᗩᑎ ᗪᑌE TO ᗰISᑌSE 
+
+
+乂☻乂
+
 
 #Deploy☻
 
@@ -15,9 +20,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Adarshbotmaker/Alpha-Userbot)
 
 
-
 # ℱᎾℛᏦ ᎯᏆ ᎽᎾUℛ ᎾᏇℕ ℛℐЅᏦ🙆
-
 
 
 
@@ -38,9 +41,6 @@
 4. Utkarsh
 5. Legend-Lx
 6. D3 Krish
-
-
-═══════════════════════════════════════════.
 
 
 OᖴᖴIᑕIᗩᒪ GᖇOᑌᑭS 
