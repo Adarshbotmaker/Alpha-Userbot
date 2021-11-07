@@ -2,8 +2,8 @@ from telethon.sessions import StringSession
 from telethon.sync import TelegramClient
 Alex = input("✵ Enter y/yes to continue: ")
 if alex string == 'y' or 'yes':
- print("\nPlease go to my.telegram.org and get your API Id and API Hash to proceed\n\n 𒊹︎︎︎ɢɪᴛʜᴜʙ ʀᴇᴘᴏ ɪs ➪➪ https://github.com/MafiaBotOP/MafiaBot")
-print("""\n\nWelcome To ALEX String Session\nGenerator By @alexuserbot_yourdad\n\n""")
+ print("\nPlease go to my.telegram.org and get your API Id and API Hash to proceed\n\n 
+print("""\n\nWelcome To Alpha x String Session\nGenerator By @alexuserbot_yourdad\n\n""")
 print("""Enter Your Valid Details To Continue!\n\n """)
 
 API_KEY = input("API_ID:  ")
@@ -19,11 +19,11 @@ while True:
             session = client.session.save()
             client.send_message(
                 "me",
-                f"Here is your TELEGRAM STRING SESSION\n(Tap to copy it)👇 \n\n `{session}` \n\n And Visit @ALEX_USERBOT_SUPPORT For Any Help!\n\n",
+                f"Here is your TELEGRAM STRING SESSION\n(Tap to copy it)👇 \n\n `{session}` \n\n And Visit @ALPHA_BOT_SUPPORT For Any Help!\n\n",
             )
 
             print(
-                "Thanks for Choosing Alex bot Have A Good Time....Note That When You Terminate the Old Session ComeBack And Genrate A New String Session Old One Wont Work"
+                "Thanks for Choosing Alpha x Have A Good Time....Note That When You Terminate the Old Session ComeBack And Genrate A New String Session Old One Wont Work"
             )
     except:
         print("")
