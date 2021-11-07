@@ -16,8 +16,8 @@
 
 echo """
               
-Legendary ALEX BOT!!
-@ALEX_USERBOT
+Legendary Alpha!!
+@alpha_userbot_support
 """
 
-python3 -m AleX
+python3 -m Alpha
