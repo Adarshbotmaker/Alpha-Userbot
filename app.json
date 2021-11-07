@@ -1,6 +1,6 @@
 {
-  "name": "Alex-ub-Userbot",
-  "description": "The ALEXUB made by OP special thanks to respective HellBot owner . Join for updates related info @alex_userbot_support",
+  "name": "Alpha x bot",
+  "description": "The Alpha X USERBOT The FASTEST USERBOT On Telegram " ,
   "logo": " https://telegra.ph/file/10042b1de7c6f93161cc9.jpg",
     "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/H1M4N5HU0P/MAFIABOT/",
-  "website": "https://github.com/H1M4N5HU0P/MAFIABOT/",
-  "success_url": "https://t.me/MAFIABOT_SUPPORT",
+  "repository": "https://github.com/ADARSHBOTMAKER/Alpha-Userbot,
+  "website": "ADARSHBOTMAKER/Alpha-Userbot",
+  "success_url": "https://t.me/ALPHA_BOT_SUPPORT",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -24,17 +24,17 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name or Username like ALEX USERBOT. By default it is ALEX User",
-      "value": "ALEX USERBOT",
+      "value": "Alpha Bot Is Alive",
       "required": false
     },
     "ABUSE": {
       "description": "Leave it blank if you dont want Profanity in ALEX BOT. Else Fill ON.",
-      "value": "",
+      "value": "ON",
       "required": false
     },    
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Command.",
-      "value": "😈𐌼𐀁ƧƬЄЯ 𐀁˩Єχ ƖƧ 𐀁˩ƖѴЄ 𐀁ИƉ ЯЄ𐀁ƉƳ ҒѲЯ ƬĦЄ ҒƖǤĦƬ 😈",
+      "value": "Master The Alpha x Bot is alive",
       "required": false
     },
     "ALIVE_PIC": {
@@ -44,7 +44,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "😈 ℂᎯℒℒ ℳℰ ᎯℒℰX 🔥",
+      "value": "😈 Call Me Alpha🔥",
       "required": false
     },
     "PMPERMIT_PIC": {
@@ -54,7 +54,7 @@
     },
     "CUSTOM_PMPERMIT": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "PLEASE DO NOT SPAM MY DM, I WILL REPLY YOU AFTER COME BACK ONLINE!",
+      "value": "HEY YOU 🙂, PLEASE DONT SPAM IN MY MASTERS INDBOX OTHERWISE I WILL BLOCK YOU🤬, IF YOU. WANT TO DEPLOY OWN 🙂 THEN DONT FORGET TO CHECK MY GROUP https://t.me/ALPHA_BOT_SUPPORT!",
       "required": false
     },
     "APP_ID": {
@@ -68,7 +68,7 @@
     },
     "SUDO_COMMAND_HAND_LER": {
       "description": "Please enter sudo user command handler",
-      "value": "*",
+      "value": ".",
       "required": false
     },
     "API_HASH": {
@@ -99,7 +99,7 @@
     },
     "YOUR BOT USERNAME": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
-      "value": "@ALEXUSERBOT"
+      "value": "Your Bot Username Make it from @botfather"
     },
     "HELP_PIC": {
       "description": "Put link of pic or gif to show your .help menu provider cool",
@@ -108,7 +108,7 @@
     },
     "EMOJI_IN_HELP": {
       "description": "Put here your favorite emoji to make your bot cool.",
-      "value": "✿",
+      "value": "💕",
       "required": true
     },
     "PM_DATA": {
