@@ -1,4 +1,4 @@
-FROM adarsh/alexbot:alpine
+FROM ADARSHBOTMAKER/AlphaX:alpine
 
 #clonning repo 
 RUN git clone  /root/userbot
