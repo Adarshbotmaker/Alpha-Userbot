@@ -29,7 +29,7 @@
 
 
 
-# /details Special Thanks To 
+# Special Thanks To 
 
 python userbot
 Team Natsuki 
