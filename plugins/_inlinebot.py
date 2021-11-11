@@ -29,8 +29,6 @@ delete kr diya h _inline
 
 #getlost
 
-#TEAM DC
-
 #special plugin for Kangers..
 
 # Bhaag bhosdike
