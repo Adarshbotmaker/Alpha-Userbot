@@ -107,7 +107,7 @@ async def rm_deletedacc(show):
 
     if del_a > 0:
         del_status = f"Cleaned **{del_u}** deleted account(s) \
-        \n**{del_a}** deleted admin accounts are not removed"
+        \n**{del_a}** I cant Remove Some Deleted Accounts Bcoz They Were Admin In This Group/Channel "
 
 
     await show.edit(del_status)
@@ -126,6 +126,6 @@ CMD_HELP.update(
         "zombies": ".zombies"
         "\nUsage: Searches for deleted accounts in a groups and channels.\n\n"
         ".zombies clean"
-        "\nUsage: Removed the deleted accounts found by using .zombies command"
+        "\nUsage: Removed the deleted accounts found by using .zombies command Removed Deleted Accounts By [AlphaUserbot](t.me/alpha_bot_support)"
     }
 )
