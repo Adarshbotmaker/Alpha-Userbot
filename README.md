@@ -29,8 +29,12 @@
 
 
 
+# Special Thanks To 
 
-
+python userbot
+Team Natsuki 
+Team D3vil 
+team Dark cobra
 
 
 🅓🅔🅥🅢 🅛🅘🅢🅣 🧑‍💻
@@ -41,8 +45,6 @@
 4. Utkarsh
 5. Legend-Lx
 6. D3 Krish
-7. DARK Cobra Userbot
-
 
 OᖴᖴIᑕIᗩᒪ GᖇOᑌᑭS 
 
