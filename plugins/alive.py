@@ -28,7 +28,7 @@ ghanti = borg.uid
 edit_time = 5
 """ =======================CONSTANTS====================== """
 file1 = "https://telegra.ph/file/566ab704cb91e6669073e.jpg"
-file2 = "filling"
+file2 = "https://telegra.ph/file/7368c13c362869f7a9b2e.jpg"
 file3 = "filling"
 file4 = "filling"
 """ =======================CONSTANTS====================== """
