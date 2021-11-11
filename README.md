@@ -2,7 +2,7 @@
 # Alpha X
 
 
-мα∂ɛ вʏ - [Adarsh](https://t.me/adarshop_xd) 
+# мα∂ɛ вʏ - [Adarsh](https://t.me/adarshop_xd) 
 
 
 # TᕼE OᗯᑎEᖇ ᗯOᑌᒪᗪ ᑎOT ᗷE ᖇESᑭOᑎSIᗷᒪE ᖴOᖇ ᗩᑎY KIᑎᗪ Oᖴ ᗷᗩN ᗪᑌE TO ᗷOT..YOᑌ ᑕᗩᑎ OᑎᒪY  GET ᗷᗩᑎ ᗪᑌE TO ᗰISᑌSE 
@@ -29,7 +29,7 @@
 
 
 
-# Special Thanks To 
+# /details Special Thanks To 
 
 python userbot
 Team Natsuki 
@@ -37,7 +37,7 @@ Team D3vil
 team Dark cobra
 
 
-🅓🅔🅥🅢 🅛🅘🅢🅣 🧑‍💻
+# 🅓🅔🅥🅢 🅛🅘🅢🅣 🧑‍💻
 
 1. [Adarsh](https://t.me/adarshop_xd)
 2. SADEW
