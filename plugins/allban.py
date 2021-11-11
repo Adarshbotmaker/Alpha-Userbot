@@ -1,4 +1,4 @@
-#originally created by @danish_00
+#originally created by @allenspark10
 
 #team cobra
 from asyncio import sleep
@@ -15,7 +15,7 @@ async def testing(event):
     admin = nikal.admin_rights
     creator = nikal.creator
     if not admin and not creator:
-        await event.edit(" U Don't have sufficient permission 🧐 u noob 😑😑")
+        await event.edit(" U Don't have sufficient permission  😣😣")
         return
     await event.edit("Doing Nothing 🙃🙂")#Kang with Credits
 # for Dark_Cobra
