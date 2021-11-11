@@ -2,11 +2,11 @@
 
 
 
-Waaah Bc Waaah 
+HELLO GUYS  
 
-Aao ye bhi loot lo bhosdiwalo..
+SORRY TO SAY..
 
-Yahi karo bes tum 😒😒😒😒😒
+DUE TO KANGERS 😒😒😒😒😒
 
 
 
@@ -14,9 +14,9 @@ Yahi karo bes tum 😒😒😒😒😒
 
 
 
-delete kr diya h _inline
+WE HAVE DELETED  _inline
 
-      usko alag se install krna padta h beta
+      It has to be installed separately
 
        😎😎😎😎😎
 
@@ -27,8 +27,8 @@ delete kr diya h _inline
 
 #gtfo
 
-#getlost
+#getlostkanger
 
 #special plugin for Kangers..
 
-# Bhaag bhosdike
+# getlostkangers
