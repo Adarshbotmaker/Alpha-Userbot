@@ -1,8 +1,8 @@
 # Originally made by @rekcah for @javes05
-# porting to hellbot by @David99q...
+# porting to hellbot by @adarshop_xd...
 # i asked rekcah before porting...not like other kangers....
 # keep credit if u wanna kang...
-# Now in W2HBOT
+# Now in AlphaX
 # else u are a gay...no doubt in that....
 
 # --------------------------------------------------------------------------------------------------------------------------------
@@ -17,7 +17,7 @@ from telethon.tl.functions.channels import GetFullChannelRequest
 from telethon.tl.functions.messages import GetFullChatRequest
 
 from userbot import CMD_HELP
-from W2HBOT.utils import admin_cmd, edit_or_reply, sudo_cmd
+from Alphax.utils import admin_cmd, edit_or_reply, sudo_cmd
 from userbot.cmdhelp import CmdHelp
 
 async def get_chatinfo(event):
@@ -92,7 +92,7 @@ async def get_users(event):
                 functions.channels.InviteToChannelRequest(channel=chat, users=[user.id])
             )
             s = s + 1
-            await W2H.edit(
+            await Alpha.edit(
                 f"**Terminal Running...**\n\n• Invited `{s}` people \n• Failed to Invite `{f}` people\n\n**× LastError:** `{error}`"
             )
         except Exception as e:
