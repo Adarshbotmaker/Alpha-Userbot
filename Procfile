@@ -1,1 +1,1 @@
-worker: bash alphax
+worker: bash Alpha-userbot
