@@ -1,6 +1,6 @@
 from telethon.sessions import StringSession
 from telethon.sync import TelegramClient
-Alex = input("✵ Enter y/yes to continue: ")
+Alpha-userbot = input("✵ Enter y/yes to continue: ")
 if alex string == 'y' or 'yes':
  print("\nPlease go to my.telegram.org and get your API Id and API Hash to proceed\n\n 
 print("""\n\nWelcome To Alpha x String Session\nGenerator By @alexuserbot_yourdad\n\n""")
