@@ -114,4 +114,4 @@ async def delete_python(event, text, time=None, parse_mode=None, link_preview=No
     await asyncio.sleep(time)
     return await pythonevent.delete()
 
-# pythonbot
+# Alphauserbot
