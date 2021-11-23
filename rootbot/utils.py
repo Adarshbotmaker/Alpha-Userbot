@@ -166,7 +166,7 @@ def load_module(shortname):
         spec.loader.exec_module(mod)
         # for imports
         sys.modules["userbot.plugins." + shortname] = mod
-        LOGS.info("🔥⚡ᴀʟᴩʜᴀ⚡🔥 ~ " + shortname)
+        LOGS.info("🔥⚡Alpha-userbot⚡🔥 ~ " + shortname)
 
 
    
@@ -179,18 +179,18 @@ def load_addons(shortname):
         import importlib
         from pathlib import Path
         path = Path(f"PYTHONUSERBOT/{shortname}.py")
-        name = "PYTHONUSERBOT.{}".format(shortname)
+        name = "Alpha-userbot.{}".format(shortname)
         spec = importlib.util.spec_from_file_location(name, path)
         mod = importlib.util.module_from_spec(spec)
         spec.loader.exec_module(mod)
-        LOGS.info("PYTHONUSERBOT ~ " + shortname)
+        LOGS.info("Alpha-userbot ~ " + shortname)
     else:
         import userbot.utils
         import sys
         import importlib
         from pathlib import Path
-        path = Path(f"PYTHONUSERBOT/{shortname}.py")
-        name = "PYTHONUSERBOT.{}".format(shortname)
+        path = Path(f"Alpha-userbot/{shortname}.py")
+        name = "Alpha-userbot.{}".format(shortname)
         spec = importlib.util.spec_from_file_location(name, path)
         mod = importlib.util.module_from_spec(spec)
         mod.bot = bot
@@ -210,14 +210,14 @@ def load_addons(shortname):
         mod.admin_cmd = admin_cmd
         mod.sudo_cmd = sudo_cmd
         # support for ᴀʟᴩʜᴀʙᴏᴛ originals
-        sys.modules["ᴀʟᴩʜᴀʙᴏᴛ.utils"] = userbot.utils
+        sys.modules["Alpha.utils"] = userbot.utils
         sys.modules["userbot"] = userbot
         # support for paperplaneextended
         sys.modules["userbot.events"] = userbot.utils
         spec.loader.exec_module(mod)
         # for imports
-        sys.modules["ᴀʟᴩʜᴀᴜsᴇʀʙᴏᴛ." + shortname] = mod
-        LOGS.info("ᴀʟᴩʜᴀᴜsᴇʀʙᴏᴛ ~ " + shortname)
+        sys.modules["Alpha-userbot." + shortname] = mod
+        LOGS.info("Alpha-userbot ~ " + shortname)
 
 
 
@@ -570,7 +570,7 @@ def errors_handler(func):
 
             text = "**USERBOT CRASH REPORT**\n\n"
 
-            link = "[here](https://t.me/Legendl_Mr_Hacker)"
+            link = "[here](https://t.me/hackmer_xd)"
             text += "If you wanna you can report it"
             text += f"- just forward this message {link}.\n"
             text += "Nothing is logged except the fact of error and date\n"
