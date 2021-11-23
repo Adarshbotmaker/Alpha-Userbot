@@ -8,12 +8,12 @@ from userbot.Config import Config
 from var import Var
 BOTLOG = True
 StartTime = time.time()
-PYTHONversion = "𝚅9.0.8"
-botversion = "𝚅9.0.8"
+Alphaversion = "v1.0.8"
+botversion = "𝚅1.0.8"
 
 os.system("pip install --upgrade pip")
 if Var.PYTHON_STRING:
-    session_name = str(Var.PYTHON_STRING)
+    session_name = str(Var.Alpha_STRING)
     bot = TelegramClient(StringSession(session_name), Var.APP_ID, Var.API_HASH)
 else:
     session_name = "startup"
@@ -54,7 +54,7 @@ if bool(ENV):
     else:
         basicConfig(format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
                     level=INFO)
-    LOGS = getLogger("[Pythonẞø† 9.0.8]")
+    LOGS = getLogger("[Alphabot 1.0.8]")
 
 try:
     if Config.HEROKU_API_KEY is not None or Config.HEROKU_APP_NAME is not None:
@@ -153,7 +153,7 @@ except:
     # Upstream Repo
     UPSTREAM_REPO_URL = os.environ.get(
     "UPSTREAM_REPO_URL",
-    "https://github.com/LEGEND-LX/PYTHONUSERBOT.git")
+    "https://github.com/Adarshbotmaker/Alpha-Userbot.git")
 
     # Last.fm Module
     BIO_PREFIX = os.environ.get("BIO_PREFIX", None)
