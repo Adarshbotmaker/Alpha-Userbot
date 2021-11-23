@@ -14,7 +14,7 @@ import asyncio
 import glob
 import telethon.utils
 l2= Config.SUDO_COMMAND_HAND_LER
-PYTHON_PIC = Config.ALIVE_PIC or "https://telegra.ph/file/75e1eda1498620f0030ea.jpg"
+Alpha_PIC = Config.ALIVE_PIC or "https://telegra.ph/file/566ab704cb91e6669073e.jpg"
 l1 = Config.COMMAND_HAND_LER
 
 
@@ -24,7 +24,7 @@ async def add_bot(bot_token):
         bot.me = await bot.get_me()
         bot.uid = telethon.utils.get_peer_id(bot.me)
     except Exception as e:
-        print(f"PYTHON_STRING - {str(e)}")
+        print(f"Alpha_STRING - {str(e)}")
         sys.exit()
         
         
@@ -67,14 +67,14 @@ async def assistant():
         shortname = path1.stem
         start_assistant(shortname.replace(".py", ""))
 
-        extra_repo = "https://github.com/LEGEND-LX/PYTHONUSERBOT"
+        extra_repo = "https://github.com/ADARSHBOTMAKER/Alpha-userbot"
         try:
             os.system(f"git clone {extra_repo}")  
         except BaseException:
             pass
         import glob
         LOGS.info("Loading Addons")
-        path = "PYTHONUSERBOT/*.py"
+        path = "Alphauserbot/*.py"
         files = glob.glob(path)
         for name in files:
             with open(name) as ex:
@@ -83,23 +83,23 @@ async def assistant():
                 try:
                     load_addons(shortname.replace(".py", ""))
                     if not shortname.startswith("__") or shortname.startswith("_"):
-                        LOGS.info(f"[PYTHON-BOT 9.0.8] - Addons -  Installed - {shortname}")
+                        LOGS.info(f"[Alpha-userbot 1.0.8] - Addons -  Installed - {shortname}")
                 except Exception as e:
-                    LOGS.warning(f"[PYTHON-BOT 9.0.8] - Addons - ERROR - {shortname}")
+                    LOGS.warning(f"[Alpha-userbot 1.0.8] - Addons - ERROR - {shortname}")
                     LOGS.warning(str(e))
     else:
         print("Addons Not Loading")
 """
 bot.loop.run_until_complete(module())
 
-print(f"""『🔱PYTHON-USER-BOT🔱』➙𖤍࿐ IS ON!!! PYTHON VERSION :- {PYTHONversion}
-TYPE :- " .gpromote @Legendl_Mr_Hacker " OR .python OR .ping CHECK IF I'M ON!
+print(f"""『🔱ALPHA-USERBOT🔱』➙𖤍࿐ IS ON!!! PYTHON VERSION :- {PYTHONversion}
+TYPE :- " .gpromote @Hackmer_xd " OR .alive OR .ping CHECK IF I'M ON!
 ╔════❰PYTHONBOT❱═❍⊱❁۪۪
-║┣⪼ OWNER - LEGEND-LX
-║┣⪼{PYTHON_PIC}
-║┣⪼ CREATOR -@Legendl_Mr_Hacker
+║┣⪼ OWNER - Adarsh
+║┣⪼{Alpha_PIC}
+║┣⪼ CREATOR -@Hackmer_xd
 ║┣⪼ TELETHON - 1.2.0
-║┣⪼ ✨ 『🔱PYTHON-USER-BOT 🔱』𝐔𝐬𝐞𝐫𝐛𝐨𝐭✨
+║┣⪼ ✨ 『🔱ALPHA USERBOT 🔱』𝐔𝐬𝐞𝐫𝐛𝐨𝐭✨
 ║╰━━━━━━━━━━━━━━━➣
 ╚══════════════════❍⊱""")
 
@@ -110,25 +110,25 @@ async def python_is_on():
         if Config.LOGGER_ID != 0:
             await bot.send_file(
                 Config.LOGGER_ID,
-                PYTHON_PIC,
-                caption=f"#START \n\nDeployed PYTHONBOT Successfully\n\n**PYTHONBOT- {PYTHONversion}**\n\nType `{l1}python` or `{l1}pyalive` to check! \n\nJoin [PythonBot Channel](t.me/Python_Updata) for Updates & [PythonBot Chat](t.me/Python_Userbot_Support) for any query regarding PythonBot",
+                Alpha_PIC,
+                caption=f"#START \n\nDeployed ALPHA-USERBOT Successfully\n\n**AlphaBOT- {PYTHONversion}**\n\nType `{l1}python` or `{l1}pyalive` to check! \n\nJoin [PythonBot Channel](t.me/Python_Updata) for Updates & [PythonBot Chat](t.me/Python_Userbot_Support) for any query regarding PythonBot",
             )
     except Exception as e:
         print(str(e))
 
-# Join PythonBot Channel after deploying 🤐😅
+# Join ALPHABOT Channel after deploying 🤐😅
     try:
-        await bot(JoinChannelRequest("@Python_Updata"))
+        await bot(JoinChannelRequest("@Alpha_bot_Updates"))
     except BaseException:
         pass
 
     try:
-        await bot(JoinChannelRequest("@Python_Userbot_Support"))
+        await bot(JoinChannelRequest("@Alpha_bot_Support"))
     except BaseException:
          pass
 
 
-bot.loop.create_task(python_is_on())
+bot.loop.create_task(Alpha_is_on())
 
 if len(sys.argv) not in (1, 3, 4):
     bot.disconnect()
