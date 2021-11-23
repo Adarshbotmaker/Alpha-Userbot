@@ -144,12 +144,12 @@ if ENV:
         ALIVE_PIC = os.environ.get("ALIVE_PIC", None)
         PM_PIC = os.environ.get("PM_PIC", None)
         AWAKE_PIC = os.environ.get("AWAKE_PIC", None)
-        HELP_PIC = os.environ.get("PYTHON_PIC", None)
+        HELP_PIC = os.environ.get("AWAKE_PIC", None)
         ALIVE_MSG = os.environ.get("ALIVE_MSG", None)
         PM_MSG = os.environ.get("PM_MSG", None)
         INSTANT_BLOCK = os.environ.get("INSTANT_BLOCK", "DISABLE")
-        YOUR_GROUP = os.environ.get("YOUR_GROUP", "@Python_Userbot_Support")
-        YOUR_CHANNEL = os.environ.get("YOUR_CHANNEL", "@Python_Updata.")
+        YOUR_GROUP = os.environ.get("YOUR_GROUP", "@ALPHA_BOT_SUPPORRT")
+        YOUR_CHANNEL = os.environ.get("YOUR_CHANNEL", "@ALPHA_BOT_UPDATES.")
         BOT_PIC = os.environ.get("ALIVE_PIC", None)
         #auto bio
         BIO_MSG = os.environ.get("ALIVE_MSG", None)
@@ -157,7 +157,7 @@ if ENV:
         LYDIA_API = os.environ.get("LYDIA_API",None)
         PLUGIN_CHANNEL = os.environ.get("PLUGIN_CHANNEL",None)
         UPSTREAM_REPO = os.environ.get(
-            "UPSTREAM_REPO", "https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8"
+            "UPSTREAM_REPO", "https://github.com/Adarshbotmaker/Alpha-Userbot"
         )
         PYTHON_STRING = os.environ.get("PYTHON_STRING", None)
         BOT_MODE = os.environ.get("BOT_MODE", "ON")
@@ -176,7 +176,7 @@ if ENV:
         if LOGGER_ID:
             LOGGER_ID = int(LOGGER_ID)
         FORCE_CHANNEL_ID = int(os.environ.get("FORCE_CHANNEL_ID", False))
-        EXTRA_PYTHONBOT = os.environ.get("EXTRA_PYTHONBOT", -1001221881562)
+        EXTRA_PYTHONBOT = os.environ.get("EXTRA_ALPHA", -1001221881562)
         PM_DATA = os.environ.get("PM_DATA", "ENABLE")
 
 else:
