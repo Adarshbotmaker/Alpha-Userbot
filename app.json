@@ -1,7 +1,7 @@
 {
   "name": "𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃",
-  "description": "The MafiaBot made by @H1M4N5HU0P special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @MafiaBot_Support",
-  "logo": "https://telegra.ph/file/75229ba894ef780332815.jpg",
+  "description": "The Alpha userbot made by @adarsh2626 special thanks to respective Mafiabot owner @H1M4N5HU0P. Join for updates related info @alpha_bot_support",
+  "logo": "https://telegra.ph/file/7368c13c362869f7a9b2e.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/H1M4N5HU0P/MAFIABOT/",
-  "website": "https://github.com/H1M4N5HU0P/MAFIABOT/",
-  "success_url": "https://t.me/MAFIABOT_SUPPORT",
+  "repository": "https://github.com/Adarshbotmaker/Alpha-Userbot/",
+  "website": "https://github.com/Adarshbotmaker/Alpha-Userbot/",
+  "success_url": "https://t.me/alpha_bot_support",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -23,33 +23,33 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @H1M4N5HU0P. By default it is Mafia User",
-      "value": "@MafiaBot_Support",
+      "description": "Fill your Full name or Username like @adarsh2626. By default it is @alpha_bot_support",
+      "value": "@alpha_bot_support",
       "required": false
     },
     "ABUSE": {
-      "description": "Leave it blank if you dont want Profanity in MafiaBot. Else Fill ON.",
+      "description": "Leave it blank if you dont want Profanity in Alphabot. Else Fill ON.",
       "value": "",
       "required": false
     },    
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .mafia Command.",
-      "value": "😈MAFIABOT IS ALIVE😈",
+      "description": "Set Custom Alive Message When entering .alpha or .alive Command.",
+      "value": "😈ALPHABOT IS ALIVE😈",
       "required": false
     },
     "ALIVE_PIC": {
-      "description": "Put here any telegraph media link for alive pic in .mafia command.",
-      "value": "https://telegra.ph/file/63c3da961d4bd91d7f367.mp4",
+      "description": "Put here any telegraph media link for alive pic in .alive or .alpha command.",
+      "value": "https://telegra.ph/file/5fef87e49b628b6df449e.mp4",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "😈LEGEND'S SAY'S TO MAFIABOT😈",
+      "value": "😈ALpha power is the main less u r dumbest😈",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/502d3b7372c1c395bba5a.mp4",
+      "value": "https://telegra.ph/file/20a71f70c3218af5e6b44.mp4",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
@@ -80,7 +80,7 @@
       "value": "-1001174481876"
     },
     "STRING_SESSION": {
-      "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
+      "description": "Get this value by running https://replit.com/@ManishRao5/ALPHA-USERBOT-V1#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
@@ -98,12 +98,12 @@
       "value": "1445762068:AAG_-327E_oIzta6TGGbdc6-RqePyM8fyR8"
     },
     "TG_BOT_USER_NAME_BF_HER": {
-      "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
-      "value": "@MAFIA_PUBLIC_bot"
+      "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot with @",
+      "value": ""
     },
     "HELP_PIC": {
       "description": "Put link of pic or gif to show your .help menu provider cool",
-      "value": "https://telegra.ph/file/63c3da961d4bd91d7f367.mp4",
+      "value": "https://telegra.ph/file/20a71f70c3218af5e6b44.mp4",
       "required": false 
     },
     "EMOJI_IN_HELP": {
