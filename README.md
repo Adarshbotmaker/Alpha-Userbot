@@ -2,7 +2,7 @@
 # Alpha X
 
 
-# мα∂ɛ вʏ - [Adarsh](https://t.me/adarshop_xd) 
+# мα∂ɛ вʏ - [Adarsh](https://t.me/ADARSH2626) 
 
 
 # TᕼE OᗯᑎEᖇ ᗯOᑌᒪᗪ ᑎOT ᗷE ᖇESᑭOᑎSIᗷᒪE ᖴOᖇ ᗩᑎY KIᑎᗪ Oᖴ ᗷᗩN ᗪᑌE TO ᗷOT..YOᑌ ᑕᗩᑎ OᑎᒪY  GET ᗷᗩᑎ ᗪᑌE TO ᗰISᑌSE 
