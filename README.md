@@ -31,10 +31,11 @@
 
 # Special Thanks To 
 
-python userbot
-Team Natsuki 
-Team D3vil 
-team Dark cobra
+### Lonely userbot
+### python userbot
+### Team Natsuki 
+### Team D3vil 
+### team Dark cobra
 
 
 # 🅓🅔🅥🅢 🅛🅘🅢🅣 🧑‍💻
