@@ -41,7 +41,7 @@ team Dark cobra
 
 1. [Adarsh](https://t.me/adarshop_xd)
 2. SADEW
-3. Ujjwal 
+3. [Ujjwal](https://github.com/Dhrubamoy) 
 4. Utkarsh
 5. Legend-Lx
 6. D3 Krish
